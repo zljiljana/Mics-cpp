@@ -1,7 +1,7 @@
 ## Misc C++ codes
 
 
-## Strings and Arrays
+### Strings and Arrays
 
 * Reverse the string and words
 * Rotating strings - check if a string is a rotation of another string
