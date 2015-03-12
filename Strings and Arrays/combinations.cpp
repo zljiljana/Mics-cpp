@@ -1,15 +1,19 @@
+/*
+STRING COMBINATIONS
+
+Inputs:
+input: input string
+output: current output
+len: length of the input string
+depth: depth of the recursion or the index that's being changed
+start: the index of the first character in the input string that is still 'available' 
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
 
-/* depth: the recursion depth 
-	    or the index into the output string of the character 
-		that's being generated.  */
-/* start: the index of the first of the still available letters */
-
-void combinations(char *input, char *output, 
-    int len, int depth, int start)
-{
+void combinations(char *input, char *output, int len, int depth, int start) {
     /* At the current depth, 
 	   cycle through the still available letters */
 
