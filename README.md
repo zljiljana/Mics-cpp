@@ -10,6 +10,7 @@
 * Remove duplicate characters from a string
 * Remove specified list of characters from a string
 * Rotate a N by N matrix in place
+* Reverse a string
 * Find the intersection of two strings
 * Check if a string has all unique chars
 * Base conversion - given A, B, ..., Z, AA, AB, ..., AZ, BA, ... and a number n return the n_th string and vice versa
