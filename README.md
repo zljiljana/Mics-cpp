@@ -25,5 +25,6 @@
 * Insertion sort on a linked list
 * Merge sort on arrays
 * Merge sort on vectors
+* Merge sort on linked lists
 * Bubble sort
 * Quicksort on arrays
