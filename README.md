@@ -17,3 +17,13 @@
 * Determine if two strings are anagrams (listen - silent are anagrams)
 * Print all string permutations
 * Print all string combinations
+
+
+### Sorting Algorithms
+
+* Insertion sort on arrays
+* Insertion sort on a linked list
+* Merge sort on arrays
+* Merge sort on vectors
+* Bubble sort
+* Quicksort on arrays
