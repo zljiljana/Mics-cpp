@@ -39,3 +39,28 @@ This is a collection of small C++ programs I wrote to brush up on my basic codin
 * Find the beginning of a circular list
 * Find Mth to last element of a list
 * Create a list that represents a sum of two lists
+
+### Binary Search Trees
+
+* Binary Search Tree with following functions:
+** In-order print
+** Pre-order print
+** Post-order print
+** Find min value of a tree
+** Find max value of a tree
+** Look up (search) for a given key
+** Get the max depth of a tree
+** Get the min depth of a tree
+** Is a tree balanced?
+** Number of nodes in a tree
+** Is a tree a binary search tree
+** Convert tree to an array
+** Is a given tree a subtree of a big tree
+** Mirror a tree (swap pointer to left and right child)
+** Find a in-order succesor (node which has the next higher value)
+** Find a in-order predecessor (node which has the next lower value)
+** Find a lowest common ancestor
+** Delete a tree
+** Create a new treeo from a sorted array
+** Breadth First Traversal of a tree
+** Find Nth max value in a tree
