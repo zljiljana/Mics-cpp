@@ -1,5 +1,6 @@
 ## Misc C++ codes
 
+This is a collection of small C++ programs I wrote to brush up on my basic coding skills. Most of them are common interview questions I found on various internet/book sources.
 
 ### Strings and Arrays
 
