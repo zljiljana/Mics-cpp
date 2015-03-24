@@ -43,18 +43,18 @@ This is a collection of small C++ programs I wrote to brush up on my basic codin
 ### Binary Search Trees
 
 * Binary Search Tree with following functions:
-** In-order print
-** Pre-order print
-** Post-order print
-** Find min value of a tree
-** Find max value of a tree
-** Look up (search) for a given key
-** Get the max depth of a tree
-** Get the min depth of a tree
-** Is a tree balanced?
-** Number of nodes in a tree
-** Is a tree a binary search tree
-** Convert tree to an array
+    * In-order print
+    * Pre-order print
+    * Post-order print
+    * Find min value of a tree
+    * Find max value of a tree
+    * Look up (search) for a given key
+    * Get the max depth of a tree
+    ** Get the min depth of a tree
+    ** Is a tree balanced?
+    ** Number of nodes in a tree
+    ** Is a tree a binary search tree
+    ** Convert tree to an array
 ** Is a given tree a subtree of a big tree
 ** Mirror a tree (swap pointer to left and right child)
 ** Find a in-order succesor (node which has the next higher value)
