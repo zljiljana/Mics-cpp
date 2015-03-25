@@ -19,7 +19,6 @@ This is a collection of small C++ programs I wrote to brush up on my basic codin
 * Print all string permutations
 * Print all string combinations
 
-
 ### Sorting Algorithms
 
 * Insertion sort on arrays
@@ -29,7 +28,6 @@ This is a collection of small C++ programs I wrote to brush up on my basic codin
 * Merge sort on linked lists
 * Bubble sort
 * Quicksort on arrays
-
 
 ### Linked Lists
 
@@ -64,3 +62,12 @@ This is a collection of small C++ programs I wrote to brush up on my basic codin
     * Create a new treeo from a sorted array
     * Breadth First Traversal of a tree
     * Find Nth max value in a tree
+
+### Stacks and Queues
+
+* Basic Stack implementation with linked-lists
+* Basic Stack class implementation with linked-lists
+* Basic Queue implementation with linked-lists
+* Basic Queue class implementation with linked-lists
+* Basic Queue class implementation with vectors
+
